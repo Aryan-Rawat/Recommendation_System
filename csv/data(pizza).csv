@@ -1,0 +1,42 @@
+pizza_id,name,description,type
+111,Creamy Tomato Pasta Pizza - Non Veg,tomato|pasta|BBQ pepper chicken|green capsicum|red bell pepper|yellow bell pepper,non-veg
+343,Moroccan Spice Pasta Pizza - Non Veg,Harissa sauce|Peri Peri chicken|pasta,non-veg
+575,Chicken Keema Paratha Pizza,chicken keema|cheese ,non-veg
+807,Chicken Salami Gourmet Pizza,chicken salami|bbq chicken|Jalapeno|bocconcini cheese,non-veg
+1039,Chicken Pepperoni Gourmet Pizza,Italian Sauce|bocconcini cheese|chicken pepperoni,non-veg
+1271,Chicken Dominator,BBQ pepper chicken|peri-peri chicken|chicken tikka|grilled chicken rashers,non-veg
+1503,Spiced Double Chicken,BBQ pepper Chicken|Peri Peri Chicken ,non-veg
+1851,Chicken Maximus,Chicken Tikka|Chicken Keema|Chicken Sausage|grilled Chicken Rashers ,non-veg
+2315,The 5 Chicken Feast Pizza,grilled Chicken Rashers|Chicken Meatballs|Chicken Tikka|herby Chicken Sausage|Chicken Keema,non-veg
+2663,Indo Fusion Chicken Pizza,Peri Peri Chicken|Chicken Pepperoni|Chicken Tikka|Pepper Barbecue Chicken|Chicken Meatballs,non-veg
+2779,Chicken Golden Delight,BBQ pepper chicken|golden corn|cheese,non-veg
+3127,Non Veg Supreme,BBQ pepper chicken|peri-peri chicken|grilled chicken rashers,non-veg
+3707,Chicken Pepperoni,Chicken Pepperoni|cheese,non-veg
+4055,Chicken Fiesta,Grilled chicken rashers|peri-peri chicken|onion|green capsicum,non-veg
+4403,Pepper Barbecue Chicken,BBQ pepper chicken,non-veg
+4751,Chicken Sausage,herbed chicken sausage ,non-veg
+5099,Indi Chicken Tikka,tandoori masala|Chicken tikka|onion|red paprika|mint mayo,non-veg
+5331,Creamy Tomato Pasta Pizza - Veg,tomato|pasta|green capsicum|red bell pepper|yellow bell pepper|black olives,veg
+5563,Moroccan Spice Pasta Pizza - Veg,Harissa sauce|pasta.,veg
+5679,Corn n Cheese Paratha Pizza,golden corn|cheese,veg
+5795,Paneer Paratha Pizza,cheese|paneer,veg
+6027,Caprese Gourmet Pizza,basil leaves|tomato|bocconcini cheese,veg
+6143,Primavera Gourmet Pizza,zucchini|red bell pepper|yellow bell pepper|mushrooms|Italian sauce|bocconcini cheese,veg
+6491,Al Funghi Gourmet Pizza,mushrooms|mozzarella|jalapeno|tomato  ,veg
+6839,Margherita,mozzarella ,veg
+7187,Double Cheese Margherita,mozzarella|cheese,veg
+7535,Farmhouse,onion|green capsicum|tomato|mushrooms,veg
+7883,Peppy Paneer,paneer|green capsicum|red paprika,veg
+8231,Mexican Green Wave,Mexican herbs|onion|green capsicum|tomato|jalapeno,veg
+8347,Deluxe Veggie,onion|green capsicum|mushrooms|golden corn|paneer,veg
+9275,Veggie Paradise,Golden corn|black olives|green capsicum|red paprika,veg
+9623,Cheese n Corn, golden corn,veg
+9971,Fresh Veggie,onion|green capsicum,veg
+10319,Paneer Makhani,makhani sauce|paneer|green capsicum,veg
+10667,Indi Tandoori Paneer,Tandoori paneer|green capsicum|red paprika|mint mayo,veg
+11015,Cheese n Tomato,cheese|tomato,veg
+11363,Achari Do Pyaza,achar|cheese|onion,veg
+11711,Kadhai Paneer,Paneer|kadhai masala|onion|green capsicum,veg
+12059,The Unthinkable Pizza,Plant Based Protein|Black Olives|Red Paprika,veg
+12407,The Cheese Dominator,Mozzarella|Cheese|mexican herbs,veg
+12755,The 4 Cheese Pizza,cheese|ghost pepper,veg
