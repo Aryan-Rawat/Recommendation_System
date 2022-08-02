@@ -17,6 +17,7 @@ NOTE:
 1) data is engineered to resemble movielens data using realistic ratings for pizza. Use the data in csv folder for SVD model.
 2) cold start problem is resolved by taking input from user and adding new data in original data.
 3) I have used colaborative filtering using SVD.
+4) Tech stack- Google colab, libraries- surprise, pandas, numpy
 
 # References and material to learn #
 [1] https://towardsdatascience.com/recommendation-systems-a-review-d4592b6caf4b<br />
