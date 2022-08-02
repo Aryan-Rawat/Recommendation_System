@@ -1,5 +1,5 @@
 # Recommendation_System
-Pizza recommender
+Pizza recommender \n
 Implementation of a recommender for pizza based on ratings given by users to other pizzas, user behaviour includes ratings on items. In this manner, the model finds an association between the users and the items. The model is then used to predict the item or a rating for the item in which the user may be interested. 
 
 # Types of Recommender Systems: #
