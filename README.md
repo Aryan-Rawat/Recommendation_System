@@ -9,6 +9,7 @@ Recommender systems are typically classified into the following categories:
 3) Hybrid systems
 
 # Algorithms used for recommendation #
+getting started with <br />
 1) SVD 
 2) K nearest neighbours
 3) more deep learning and colaborative filtering techniques (https://github.com/microsoft/recommenders.git)
